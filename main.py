@@ -12,4 +12,6 @@ if (is_raining == "нет" or is_raining == "Нет" and beaufort <= 4) and temp
 else:
     print('Сидим дома, читаем книги')
 
+#test
+
 input()
